@@ -4,3 +4,7 @@ This is a simple application that allows you convert a PDF file into speech. You
 
 After the installation is done, you will get this interface: 
 
+![interface](https://github.com/AliElneklawy/pdf-text-to-speech/blob/main/utils/interface.PNG)
+
+Upload the file, choose your preferences, specify the pages and convert. Simple!
+
