@@ -6,5 +6,5 @@ After the installation is done, you will get this interface:
 
 ![interface](https://github.com/AliElneklawy/pdf-text-to-speech/blob/main/utils/interface.PNG)
 
-Upload the file, choose your preferences, specify the pages and convert. Simple!
+Upload the file, choose your preferences, specify the pages and convert. Simple :) 
 
